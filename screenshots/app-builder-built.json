@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Iron Doctrine",
+      "hasCanvas": true,
+      "bodyTextLen": 450,
+      "bodyTextHash": "5abffb7a62e4c3cb72f1093fba64478a6cbd4ac90442c811e4e0d2b5e7b0b7f0",
+      "bodyTextPrefix": "Iron Doctrine 0:00 HILL OVER TOWN Controlled range Armor takes t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Iron Doctrine",
+      "hasCanvas": true,
+      "bodyTextLen": 373,
+      "bodyTextHash": "f8bea2f5210d776721cb30f5c41eb62917c9e530c359fbb465cc7f5f39eb61aa",
+      "bodyTextPrefix": "Iron Doctrine 0:00 HILL OVER TOWN Controlled range Armor takes t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (450 -> 373 chars, hash mismatch)"
+  ]
+}

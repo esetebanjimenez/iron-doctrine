@@ -1,0 +1,22 @@
+/** Presentation only. The simulation does not import this module. */
+export const theme = {
+  flat: "#6d7558",
+  flatAlt: "#626b52",
+  hill: "#8d9676",
+  hillAlt: "#808a6c",
+  forest: "#3d4a36",
+  forestDot: "#2c3828",
+  urban: "#c4b48a",
+  urbanAlt: "#b3a27a",
+  water: "#4e626c",
+  road: "#6a6256",
+  kill: "rgba(212, 83, 60, 0.16)",
+  you: "#9ec0dc",
+  hostile: "#d4533c",
+  hp: "#8eae78",
+  ink: "#14170f",
+  bone: "#ebe6d8",
+  gold: "#e2a322",
+  pad: "rgba(226, 163, 34, 0.55)",
+  fog: "rgba(12, 16, 14, 0.55)",
+};

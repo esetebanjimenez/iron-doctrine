@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Iron Doctrine",
+      "hasCanvas": true,
+      "bodyTextLen": 450,
+      "bodyTextHash": "5abffb7a62e4c3cb72f1093fba64478a6cbd4ac90442c811e4e0d2b5e7b0b7f0",
+      "bodyTextPrefix": "Iron Doctrine 0:00 HILL OVER TOWN Controlled range Armor takes t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Iron Doctrine",
+      "hasCanvas": true,
+      "bodyTextLen": 450,
+      "bodyTextHash": "5abffb7a62e4c3cb72f1093fba64478a6cbd4ac90442c811e4e0d2b5e7b0b7f0",
+      "bodyTextPrefix": "Iron Doctrine 0:00 HILL OVER TOWN Controlled range Armor takes t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
